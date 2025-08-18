@@ -116,3 +116,34 @@ main{
 .section03{
     margin-top: 115px;
 }
+
+/* what our users say section */
+.users-cards{
+    display: flex;
+}
+.profile{
+    display: flex;
+    align-items: center;
+    width: 320px;
+    height: 45px;
+    padding: 0px;
+    gap: 12px;
+
+}
+.carddescription{
+    padding-top: 8px;
+    padding-bottom: 25px;
+}
+.users-cards{
+    gap: 20px;
+}
+.profileimg{
+    width: 40px;
+    height: 40px;
+}
+.profile-description{
+    margin-top: 2px;
+}
+.profile-title{
+    margin-bottom: 2px;
+}
