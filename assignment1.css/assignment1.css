@@ -31,7 +31,25 @@
 .center{
     text-align: center;
 }
-
+.formtitle{
+    margin-bottom: 10px;
+    margin-top: 20px;
+    font-size: 18px;
+}
+.formblank{
+    width: 497px;
+    height: 70px;
+    border-radius: 10px;
+    background-color: white;
+    border: ;
+}
+body {
+    background-color: rgba(255, 255, 255, 0.5);
+}
+.bgcolorwhite {
+    background-color: white;
+}
+    
 
 /* nav */
 .navtitle{
@@ -164,4 +182,87 @@ main{
 }
 .section4{
     margin-top: 135px;
+}
+/* section 5 */
+.sec5{
+    margin-top: 135px;
+}
+.imgsec05{
+    border-radius: 48px;
+}
+.sec5title{
+    font-size: 50px;
+    font-weight: bold;
+    
+}
+.sec5descript{
+    color: rgba(0, 0, 0, 0.5);
+}
+.sec05title{
+    margin-bottom: 20px;
+}
+.sec5descript{
+    margin-bottom: 20px;
+}
+.sec5btn{
+    margin-bottom: 20px;
+}
+/* form section6 */
+.sec6{
+    display: flex;
+    justify-content: space-between;
+    margin-top: 90px;
+    
+}
+.sec06title{
+    font-size: 97px;
+    font-weight: bold;
+}
+.sec6title{
+    width: 530px;
+    height: 230px;
+}
+form {
+    width: 497px;
+    height: 490px;
+}
+.btn6{
+    width: 497px;
+    height: 60px;
+    border-radius: 10px;
+    margin-top: 20px;
+}
+
+/* footer */
+.foot{
+    width: 530px;
+    height: 220px;
+   margin: 0px auto;
+}
+.footlast{
+    margin: 0px 455px;
+    
+}
+.footer-title {
+    font-size: 100px;
+    font-weight: 900;
+    color: #4E47FF;
+    margin-bottom: 8px;
+}
+.footer-description{
+    color: rgba(135, 141, 161, 1);
+
+}
+.footdescript{
+    width: 530px;
+    height: 48px;
+}
+footer nav {
+    gap: 48px;
+    
+}
+.footerlink{
+    text-decoration: none;
+    color: #8987A1;
+ 
 }
