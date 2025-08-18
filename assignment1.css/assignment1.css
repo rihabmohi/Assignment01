@@ -41,7 +41,6 @@
     height: 70px;
     border-radius: 10px;
     background-color: white;
-    border: ;
 }
 body {
     background-color: rgba(255, 255, 255, 0.5);
@@ -67,7 +66,6 @@ nav{
 .banner-title{
     font-size: 65px;
     font-weight: bold;
-    
 }
 .banner{
     align-items: center;
@@ -264,5 +262,4 @@ footer nav {
 .footerlink{
     text-decoration: none;
     color: #8987A1;
- 
 }
